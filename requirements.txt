@@ -2,3 +2,4 @@ Flask==2.0.1
 langchain==0.0.5
 openai==0.11.1
 streamlit==0.84.0
+protobuf==3.20.3
