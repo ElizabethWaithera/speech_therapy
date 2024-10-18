@@ -2,8 +2,8 @@
 
 ![Speech Therapy Chatbot](https://github.com/ElizabethWaithera/speech_therapy/blob/main/img%201.jpg)
 ![Speech Therapy Chatbot](https://github.com/ElizabethWaithera/speech_therapy/blob/main/img%201.jpg)
-![Speech Therapy Chatbot](https://github.com/ElizabethWaithera/speech_therapy/blob/main/img%203.jpg)
-![Speech Therapy Chatbot](https://github.com/ElizabethWaithera/speech_therapy/blob/main/img2.jpg)
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,7 +21,7 @@
 Welcome to the **Speech Therapy **, a heartfelt digital companion dedicated to supporting individuals with speech disabilities. We understand that communication is a fundamental part of human connection, yet many individuals face challenges that hinder their ability to express themselves. Our mission is to bridge this gap by providing accessible, compassionate resources and support tailored specifically for those with speech disabilities.
 
 At the Speech Therapy Chatbot, we believe that everyone deserves to communicate their thoughts, feelings, and ideas confidently. With our chatbot, users can embark on a journey towards improved communication skills in a safe, engaging, and supportive environment.
-
+![Speech Therapy Chatbot](https://github.com/ElizabethWaithera/speech_therapy/blob/main/img2.jpg)
 ## Identifying the Gap
 
 Speech disabilities affect millions of people, creating barriers not only in communication but also in self-expression and social interaction. Traditional therapy options can often be expensive, time-consuming, and may not provide the ongoing support individuals need outside of scheduled sessions. 
@@ -43,7 +43,7 @@ Our chatbot is designed for:
 - **Engaging Activities and Games**: Participate in fun, interactive activities designed to enhance speech skills and foster learning through play.
 - **Word Definitions**: Quickly obtain clear definitions of important speech-related terms to expand your understanding.
 - **Community Support**: Share experiences, thoughts, and encouragement with a community of users facing similar challenges.
-
+![Speech Therapy Chatbot](https://github.com/ElizabethWaithera/speech_therapy/blob/main/img%203.jpg)
 ## How It Works
 
 The Speech Therapy Chatbot employs advanced language processing technology to provide effective, responsive support. Key components include:
@@ -51,7 +51,7 @@ The Speech Therapy Chatbot employs advanced language processing technology to pr
 1. **Natural Language Processing (NLP)**: Our chatbot utilizes NLP to understand user input and offer relevant responses, making interactions feel personal and intuitive.
 2. **Curated Knowledge Base**: The chatbot is integrated with a comprehensive database of speech therapy resources, ensuring users have access to helpful information at their fingertips.
 3. **Interactive Engagement**: Users can participate in games and activities that promote speech development, enhancing the overall learning experience.
-
+![Speech Therapy Chatbot](https://github.com/ElizabethWaithera/speech_therapy/blob/main/img%201.jpg)
 ## Installation
 
 To run the Speech Therapy Chatbot locally, follow these steps:
@@ -60,3 +60,5 @@ To run the Speech Therapy Chatbot locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/speech-therapy-chatbot.git
    cd speech-therapy-chatbot
+## Link to Video Pitch
+[Watch our Video Pitch](https://photos.app.goo.gl/uKbck2xcEsBnXHsq5)
