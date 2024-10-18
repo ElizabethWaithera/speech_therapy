@@ -35,7 +35,7 @@ Our chatbot is designed for:
 - **Individuals with Speech Disabilities**: Those seeking guidance, resources, and community support in overcoming their communication challenges.
 - **Parents and Caregivers**: Individuals looking for tools and activities to assist loved ones in their speech development journey.
 - **Speech Therapists**: Professionals seeking supplementary resources for their clients and opportunities for engagement outside of therapy sessions.
-
+![Speech Therapy Chatbot](https://github.com/ElizabethWaithera/speech_therapy/blob/main/img4.jpg)
 ## Features
 
 - **Interactive Chatbot**: Engage in meaningful conversations tailored to your needs, receiving personalized guidance and support.
