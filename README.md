@@ -1,6 +1,6 @@
 # Speech Therapy
 
-
+![Speech Therapy Chatbot](https://github.com/ElizabethWaithera/speech_therapy/blob/main/img%201.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
