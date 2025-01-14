@@ -60,5 +60,4 @@ To run the Speech Therapy Chatbot locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/speech-therapy-chatbot.git
    cd speech-therapy-chatbot
-## Link to Video Pitch
-[Watch our Video Pitch](https://photos.app.goo.gl/uKbck2xcEsBnXHsq5)
+
